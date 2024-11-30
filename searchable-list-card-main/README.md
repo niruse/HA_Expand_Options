@@ -1,3 +1,5 @@
+**Credit to https://github.com/phoenixperson-c137/searchable-list-card** - Just added minor updates
+
 # Searchable List Card
 
 Inspired by [postlund](https://github.com/postlund)'s [search-card](https://github.com/postlund/search-card)
