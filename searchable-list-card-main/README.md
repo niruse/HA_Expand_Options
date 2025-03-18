@@ -4,6 +4,8 @@
 
 Inspired by [postlund](https://github.com/postlund)'s [search-card](https://github.com/postlund/search-card)
 
+# The key difference in my version is that it retains the last search instead of resetting it.
+
 A Todo List card with search capabilities.
 
 This is a very early version, done very quick and dirty.
