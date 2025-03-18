@@ -84,13 +84,6 @@ curl --location 'https://api.smartthings.com/v1/devices' \
 --header 'Authorization: Bearer <your_access_token>'
 ```
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork this repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Submit a pull request.
-
 ## Support
 For issues or feature requests, open a ticket in the [GitHub Issues](https://github.com/niruse/HA_Expand_Options/issues).
 
