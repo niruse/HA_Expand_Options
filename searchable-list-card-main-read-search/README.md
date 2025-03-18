@@ -4,6 +4,8 @@
 
 Inspired by [postlund](https://github.com/postlund)'s [search-card](https://github.com/postlund/search-card)
 
+# Read Only Card
+
 A Todo List card with search capabilities.
 
 This is a very early version, done very quick and dirty.
