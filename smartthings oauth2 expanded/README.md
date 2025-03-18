@@ -30,13 +30,18 @@ This Home Assistant integration enables seamless authentication with SmartThings
 
 ### Step 1: Create a SmartThings OAuth Application
 1. Install the **SmartThings CLI**:
-   ```sh
-   brew install smartthingscommunity/smartthings/smartthings
-   ```
-   - **Windows**: Download and install from [SmartThings CLI Releases](https://github.com/SmartThingsCommunity/smartthings-cli/releases)
-   - **Linux**: Download the appropriate binary, extract, and make it executable.
+   To install the SmartThings Command Line Interface (CLI), follow these steps based on your operating system:
+   
+   macOS: Use Homebrew by running the command: brew install smartthingscommunity/smartthings/smartthings.
+   
+   Windows: Download the smartthings.msi installer from the latest release
+   from the link → https://github.com/SmartThingsCommunity/smartthings-cli/releases and run it. If a “Windows protected your PC” warning appears, click “More info” and then “Run anyway” to proceed with the installation.
+   
+   Linux and other systems: Download the appropriate zipped binary from the latest release, extract it, and install it on your system path. Ensure it is executable, though administrator privileges are not required.
+   
+   Run smartthings apps:create from the terminal
 
-2. Create a new OAuth app:
+3. Create a new OAuth app:
    ```sh
    smartthings apps:create
    ```
