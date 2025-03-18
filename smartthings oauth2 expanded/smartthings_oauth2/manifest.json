@@ -1,0 +1,10 @@
+{
+    "domain": "smartthings_oauth2",
+    "name": "SmartThings OAuth2",
+    "version": "1.0.0",
+    "documentation": "https://github.com/your-repo/smartthings_oauth2",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@yourusername"],
+    "config_flow": true
+}
