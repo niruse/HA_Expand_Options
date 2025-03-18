@@ -85,9 +85,6 @@ Contributions are welcome! To contribute:
 3. Commit your changes.
 4. Submit a pull request.
 
-## License
-This project is licensed under the MIT License.
-
 ## Support
 For issues or feature requests, open a ticket in the [GitHub Issues](https://github.com/niruse/HA_Expand_Options/issues).
 
