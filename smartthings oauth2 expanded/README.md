@@ -3,6 +3,9 @@
 ## Overview
 This Home Assistant integration enables seamless authentication with SmartThings using OAuth2. It allows for automatic token refresh, ensuring uninterrupted API access.
 
+## Sample image
+<img width="463" alt="image" src="https://github.com/user-attachments/assets/29b9e43a-c6b3-43fe-bf4f-1ac3cc56e136" />
+
 ## Features
 - Secure OAuth2 authentication for SmartThings.
 - Automatic refresh of access tokens.
