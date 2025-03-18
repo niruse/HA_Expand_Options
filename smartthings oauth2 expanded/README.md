@@ -38,8 +38,6 @@ This Home Assistant integration enables seamless authentication with SmartThings
    from the link → https://github.com/SmartThingsCommunity/smartthings-cli/releases and run it. If a “Windows protected your PC” warning appears, click “More info” and then “Run anyway” to proceed with the installation.
    
    Linux and other systems: Download the appropriate zipped binary from the latest release, extract it, and install it on your system path. Ensure it is executable, though administrator privileges are not required.
-   
-   Run smartthings apps:create from the terminal
 
 3. Create a new OAuth app:
    ```sh
