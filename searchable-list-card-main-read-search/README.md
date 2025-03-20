@@ -46,7 +46,7 @@ Some things I want to add in upcoming releases:
 
 ### Git Install
 
-1. Clone this repository into your `www`-directory: `git clone https://github.com/phoenixperson-c137/searchable-list-card`
+1. Clone this repository into your `www`-directory.
 
 2. Add a reference to `searchable-list-card/searchable-list-card.js` inside your `ui-lovelace.yaml`
 
