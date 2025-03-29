@@ -47,7 +47,6 @@ class SearchableListCardMainReadSearch extends LitElement {
                             alt="Add"
                             title="Add"
                         >
-                        <ha-icon icon="mdi:plus"></ha-icon>
                         </ha-icon-button>
                         </ha-textfield>
                     </div>
@@ -113,7 +112,7 @@ class SearchableListCardMainReadSearch extends LitElement {
 
     _addKeyPress(ev) {
         if (ev.key === "Enter") {
-            this._addItem()
+            //this._addItem()
         }
     }
 
