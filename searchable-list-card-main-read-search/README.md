@@ -1,4 +1,4 @@
-**Credit to https://github.com/phoenixperson-c137/searchable-list-card** - Just added minor updates
+**Credit to https://github.com/phoenixperson-c137/searchable-list-card-main-read-search** - Just added minor updates
 
 # Searchable List Card
 
@@ -34,13 +34,13 @@ Some things I want to add in upcoming releases:
 
 ### Simple Install
 
-1. Download `searchable-list-card.js` and copy it into `config/www/searchable-list-card` (create the `searchable-list-card` directory)
+1. Download `searchable-list-card-main-read-search.js` and copy it into `config/www/searchable-list-card-main-read-search` (create the `searchable-list-card-main-read-search` directory)
 
-2. Add a reference to `searchable-list-card/searchable-list-card.js` inside your `ui-lovelace.yaml`
+2. Add a reference to `searchable-list-card-main-read-search/searchable-list-card-main-read-search.js` inside your `ui-lovelace.yaml`
 
   ```yaml
   resources:
-    - url: /local/searchable-list-card/searchable-list-card.js
+    - url: /local/searchable-list-card-main-read-search/searchable-list-card-main-read-search.js
       type: module
   ```
 
@@ -48,11 +48,11 @@ Some things I want to add in upcoming releases:
 
 1. Clone this repository into your `www`-directory.
 
-2. Add a reference to `searchable-list-card/searchable-list-card.js` inside your `ui-lovelace.yaml`
+2. Add a reference to `searchable-list-card-main-read-search/searchable-list-card-main-read-search.js` inside your `ui-lovelace.yaml`
 
   ```yaml
   resources:
-    - url: /local/searchable-list-card/searchable-list-card.js
+    - url: /local/searchable-list-card-main-read-search/searchable-list-card-main-read-search.js
       type: module
   ```
 
@@ -88,7 +88,7 @@ You can define custom actions that will call a service (if it exists) with the i
 ### Example
 
   ```yaml
-    type: custom:searchable-list-card
+    type: custom:searchable-list-card-main-read-search
     entity: todo.shopping_list
   ```
 
