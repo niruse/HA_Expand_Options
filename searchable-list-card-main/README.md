@@ -34,13 +34,13 @@ Some things I want to add in upcoming releases:
 
 ### Simple Install
 
-1. Download `searchable-list-card.js` and copy it into `config/www/searchable-list-card` (create the `searchable-list-card` directory)
+1. Download `searchable-list-card-main.js` and copy it into `config/www/searchable-list-card` (create the `searchable-list-card` directory)
 
-2. Add a reference to `searchable-list-card/searchable-list-card.js` inside your `ui-lovelace.yaml`
+2. Add a reference to `searchable-list-card/searchable-list-card-main.js` inside your `ui-lovelace.yaml`
 
   ```yaml
   resources:
-    - url: /local/searchable-list-card/searchable-list-card.js
+    - url: /local/searchable-list-card/searchable-list-card-main.js
       type: module
   ```
 
@@ -48,11 +48,11 @@ Some things I want to add in upcoming releases:
 
 1. Clone this repository into your `www`-directory.
 
-2. Add a reference to `searchable-list-card/searchable-list-card.js` inside your `ui-lovelace.yaml`
+2. Add a reference to `searchable-list-card/searchable-list-card-main.js` inside your `ui-lovelace.yaml`
 
   ```yaml
   resources:
-    - url: /local/searchable-list-card/searchable-list-card.js
+    - url: /local/searchable-list-card/searchable-list-card-main.js
       type: module
   ```
 
