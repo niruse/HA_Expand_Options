@@ -18,7 +18,7 @@ class SearchableListCardMainReadSearch extends LitElement {
         this.results_rows = []
         this.searchText = ''
         this.config = config
-        this.search_text = this.config.search_text || "Type to search / add"
+        this.search_text = this.config.search_text || "Type to search"
     }
 
     getCardSize() {
